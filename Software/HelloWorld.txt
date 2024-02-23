@@ -1,0 +1,6 @@
+C
+
+10 FOR A = 1 TO 10
+20 PRINT "Hello World from UK101 computer!"
+30 NEXT A
+RUN
